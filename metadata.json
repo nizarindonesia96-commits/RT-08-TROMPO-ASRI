@@ -1,0 +1,7 @@
+{
+  "name": "RT 08 Trompo Asri Digital",
+  "description": "Website resmi RT 08 Desa Trompo Asri untuk pelayanan warga, transparansi keuangan, dan informasi kegiatan yang modern dan mudah digunakan.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
